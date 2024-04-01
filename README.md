@@ -4,10 +4,11 @@ My name is James Miller. I am a Human Systems Engineering major at ASU. I am not
 
 I am pretty focused on human research as a part of my field, but coding is very interesting to me. I enjoy doing a lot of things but a new hobby I recently picked up is Ballroom Dance.
 
-[Here is a link to my LinkedIn](https://www.linkedin.com/in/james-miller-b87317287/)
+Here is a link to my [LinkedIn](https://www.linkedin.com/in/james-miller-b87317287/)
 and my [codepen.io](https://codepen.io/jmill191)
 
-
+Here is a screenshot of a website I made recently:
+![webpage for Friendface with a header main and footer and three sections in the main](images/webpage.png)
 <!--
 **jmill191/jmill191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
